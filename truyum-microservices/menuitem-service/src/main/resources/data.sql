@@ -1,0 +1,2 @@
+INSERT INTO `user` VALUES (1,'Saivi','1234','saivichatt');
+INSERT INTO `menu_item`(me_id,me_name,me_price,me_active,me_date_of_launch,me_category,me_free_delivery) VALUES (1,'Sandwich',99,1,'2017-03-15','Main Course',1),(2,'Burger',129,1,'2017-12-23','Main Course',0),(3,'Pizza',155.5,1,'2019-08-21','Main Course',0),(4,'French Fries',57,0,'2018-07-02','Starters',1),(5,'Chocolate Brownies',32,1,'2022-11-02','Dessert',1);
